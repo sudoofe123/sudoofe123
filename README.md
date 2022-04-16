@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **CSS,js ,c++**
 
-- 📫 How to reach me **sudoofe123@gmail.com**
+- 📫  Reach me at **sudoofe123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
