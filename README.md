@@ -12,7 +12,7 @@
 - 💬 Ask me about **CSS,js ,c++**
 
 - 📫  Reach me at **sudoofe123@gmail.com**
-
+[![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://jhey.dev)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
