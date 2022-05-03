@@ -22,5 +22,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudoofe123&show_icons=true&locale=en" alt="sudoofe123" /></p>
 
+#snake eating my contribution
 
+![snake gif](https://github.com/sudoofe123/sudoofe123 /blob/output/github-contribution-grid-snake.gif)
 
